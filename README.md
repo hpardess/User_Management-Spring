@@ -16,3 +16,4 @@ Following technologies being used:
 
 http://www.baeldung.com/role-and-privilege-for-spring-security-registration
 http://websystique.com/spring-security/spring-security-4-hibernate-annotation-example/
+https://blog.lukaspradel.com/user-role-permission-security-rbac-in-spring-security-4/
